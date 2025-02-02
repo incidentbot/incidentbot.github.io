@@ -97,7 +97,7 @@ image:
 You can get started quickly by using the Helm chart:
 
 ```bash
-helm repo add incidentbot https://charts.incidentbot.io
+helm repo add incidentbot https://docs.incidentbot.io/charts
 helm repo update
 ```
 
